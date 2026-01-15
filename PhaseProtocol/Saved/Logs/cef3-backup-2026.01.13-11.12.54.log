@@ -1,0 +1,19 @@
+[191904:191912:0113/180727.079:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[191904:193408:0113/180727.139:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[191904:191912:0113/180727.150:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[191904:191912:0113/180730.763:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[191372:194104:0113/180731.517:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[191372:194104:0113/180732.262:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[193772:193776:0113/180732.934:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-46D473AD70F1BD7D863B8E43B4D84F8C will be ignored
+[191904:193412:0113/180735.602:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[191372:194104:0113/180745.596:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[191372:194104:0113/180745.597:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[191904:191912:0113/180746.005:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[191904:191912:0113/180746.006:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[191904:191912:0113/180746.006:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[191904:191912:0113/180746.006:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[191904:193412:0113/180746.011:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[191372:194104:0113/180957.956:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[193400:193396:0113/180959.019:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[191904:191912:0113/183953.780:ERROR:device_event_log_impl.cc(196)] [18:39:53.636] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+[191904:191912:0113/191254.600:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
