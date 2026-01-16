@@ -1,6 +1,14 @@
-[293556:308908:0116/114622.884:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[293556:273616:0116/114622.932:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[293556:308908:0116/114622.941:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[293556:308908:0116/114626.181:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[285916:300632:0116/114628.352:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-36D1226184C04DD39B2268005095390A will be ignored
-[293556:308908:0116/115958.725:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[290304:301224:0116/132853.973:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[290304:310096:0116/132854.036:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[290304:301224:0116/132854.046:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[290304:301224:0116/132856.925:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[292636:269352:0116/132858.780:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D1B0C733ED0D7BC75512E75BA79AC1F6 will be ignored
+[290304:262640:0116/132901.120:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[290304:301224:0116/132901.449:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[290304:301224:0116/132901.450:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[290304:301224:0116/132901.450:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[290304:301224:0116/132901.450:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[290304:262640:0116/132901.460:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[290304:301224:0116/132918.451:ERROR:device_event_log_impl.cc(196)] [13:29:18.123] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+[300792:310228:0116/133112.991:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[290304:301224:0116/153202.986:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
