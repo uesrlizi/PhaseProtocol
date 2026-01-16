@@ -1,6 +1,28 @@
+<<<<<<< Updated upstream
 [174680:155440:0113/094620.327:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [174680:169272:0113/094620.407:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
 [174680:155440:0113/094620.450:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
 [174680:155440:0113/094624.414:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
 [174680:155440:0113/100920.500:ERROR:device_event_log_impl.cc(196)] [10:09:20.496] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
 [174680:155440:0113/112115.546:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+=======
+[27672:27676:0116/105755.984:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[27672:21640:0116/105756.025:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[27672:27676:0116/105756.034:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[27672:21640:0116/105800.320:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\zhuni\Documents\GitHub\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\zhuni\Documents\GitHub\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27672:21640:0116/105800.327:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\zhuni\Documents\GitHub\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\zhuni\Documents\GitHub\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27672:21640:0116/105800.332:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\zhuni\Documents\GitHub\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\zhuni\Documents\GitHub\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27672:21640:0116/105800.335:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\zhuni\Documents\GitHub\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\zhuni\Documents\GitHub\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27672:11244:0116/105802.190:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27672:11244:0116/105802.193:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27672:27092:0116/105802.409:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\zhuni\Documents\GitHub\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\zhuni\Documents\GitHub\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13464:3488:0116/105803.114:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-53B4BDEEABCFE9F273C25D9F6682738C will be ignored
+[27672:12900:0116/105803.571:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[27672:27676:0116/105803.750:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[27672:27676:0116/105803.750:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[27672:27676:0116/105803.750:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[27672:27676:0116/105803.750:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[27672:12900:0116/105803.763:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[21284:14132:0116/110012.258:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[27672:27676:0116/120227.363:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> Stashed changes
