@@ -1,0 +1,13 @@
+[302952:293808:0116/093651.666:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[302952:297072:0116/093651.957:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[302952:293808:0116/093652.101:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[302952:293808:0116/093658.174:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[308996:294052:0116/093700.313:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-ED8E8F61AB312AA021D86F847AC896E7 will be ignored
+[302952:288400:0116/093702.773:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[302952:293808:0116/093703.104:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[302952:293808:0116/093703.104:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[302952:293808:0116/093703.104:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[302952:293808:0116/093703.104:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[302952:288400:0116/093703.113:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[302952:293808:0116/104841.324:ERROR:device_event_log_impl.cc(196)] [10:48:41.042] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+[302952:293808:0116/114411.479:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
