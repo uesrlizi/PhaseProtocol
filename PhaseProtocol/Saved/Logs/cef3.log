@@ -1,14 +1,13 @@
-[25180:25192:0117/132109.924:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[25180:25020:0117/132109.977:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[25180:25192:0117/132109.988:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[25180:25192:0117/132113.022:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[3716:292:0117/132115.144:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-007D777827E45CFEE6DCA646D9C39781 will be ignored
-[25180:23364:0117/132117.149:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[25180:25192:0117/132118.143:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[25180:25192:0117/132118.143:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[25180:25192:0117/132118.143:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[25180:25192:0117/132118.143:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[25180:23364:0117/132118.147:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[25180:25192:0117/144553.460:ERROR:device_event_log_impl.cc(196)] [14:45:53.351] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
-[25180:25192:0117/145239.652:ERROR:device_event_log_impl.cc(196)] [14:52:39.434] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
-[25180:25192:0117/160427.895:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[43972:45868:0119/084619.199:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[43972:58456:0119/084619.466:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[43972:45868:0119/084619.577:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[43972:45868:0119/084624.970:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[58080:59288:0119/084627.539:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7927C7CF91E33F5A188129A1B73ADE19 will be ignored
+[43972:38404:0119/084629.876:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[43972:45868:0119/084630.871:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[43972:45868:0119/084630.871:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[43972:45868:0119/084630.871:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[43972:45868:0119/084630.871:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[43972:38404:0119/084630.875:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[59820:58560:0119/084842.495:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[43972:45868:0119/095107.087:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
