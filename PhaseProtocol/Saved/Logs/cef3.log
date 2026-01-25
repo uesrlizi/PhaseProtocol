@@ -1,19 +1,14 @@
-[93432:93808:0125/163326.854:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[93432:99528:0125/163326.906:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[93432:93808:0125/163326.916:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[93432:93808:0125/163330.614:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[96012:99788:0125/163332.468:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-35F53D5DE8666077BD2FC445AB8F90C8 will be ignored
-[93432:99496:0125/163334.949:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[93432:93808:0125/163335.206:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[93432:93808:0125/163335.207:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[93432:93808:0125/163335.207:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[93432:93808:0125/163335.207:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[93432:99496:0125/163335.214:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[100108:100112:0125/163541.651:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[93432:93808:0125/170754.367:ERROR:device_event_log_impl.cc(196)] [17:07:54.149] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
-[93432:93808:0125/172320.942:ERROR:device_event_log_impl.cc(196)] [17:23:20.921] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
-[93432:93808:0125/172321.274:ERROR:device_event_log_impl.cc(196)] [17:23:20.959] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: 没有可用的数据了。 (0x103)
-[93432:93808:0125/172709.747:ERROR:device_event_log_impl.cc(196)] [17:27:09.738] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
-[93432:93808:0125/172709.787:ERROR:device_event_log_impl.cc(196)] [17:27:09.772] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: 没有可用的数据了。 (0x103)
-[93432:93808:0125/172709.804:ERROR:device_event_log_impl.cc(196)] [17:27:09.798] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: 没有可用的数据了。 (0x103)
-[93432:93808:0125/173122.109:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[93712:97016:0125/191149.282:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[93712:102636:0125/191149.386:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[93712:97016:0125/191149.418:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[93712:97016:0125/191153.707:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[95244:101340:0125/191155.658:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E320B26F04794A79D32884B330CB4AA1 will be ignored
+[93712:103332:0125/191156.191:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[93712:97016:0125/191156.442:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[93712:97016:0125/191156.443:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[93712:97016:0125/191156.443:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[93712:97016:0125/191156.443:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[93712:103332:0125/191156.449:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[101580:84044:0125/191403.190:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-E5AA49B41289B7265CDE681501016121 will be ignored
+[99196:96352:0125/191403.336:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[93712:97016:0125/191544.974:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
