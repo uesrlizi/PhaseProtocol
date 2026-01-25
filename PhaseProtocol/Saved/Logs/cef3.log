@@ -1,13 +1,12 @@
-[91300:92476:0125/125758.047:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[91300:95112:0125/125758.096:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[91300:92476:0125/125758.111:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[91300:92476:0125/125801.549:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[93408:93420:0125/125803.808:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E6B09E79881C0EF9E084D910D5CBE070 will be ignored
-[91300:95128:0125/125804.700:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[91300:92476:0125/125804.969:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[91300:92476:0125/125804.969:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[91300:92476:0125/125804.969:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[91300:92476:0125/125804.969:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[91300:95128:0125/125804.975:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[95208:95212:0125/130012.116:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[91300:92476:0125/140927.384:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[93504:92396:0125/145151.079:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[93504:93936:0125/145151.128:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[93504:92396:0125/145151.137:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[93504:92396:0125/145154.648:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[94032:94000:0125/145157.525:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9706A62D7CA3BC6471DD6653F4F37639 will be ignored
+[93504:95492:0125/145200.196:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[93504:92396:0125/145200.855:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[93504:92396:0125/145200.856:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[93504:92396:0125/145200.856:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[93504:92396:0125/145200.856:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[93504:95492:0125/145200.861:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[93504:92396:0125/154902.015:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
