@@ -1,13 +1,15 @@
-[120912:111604:0128/143231.758:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[120912:92104:0128/143231.816:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[120912:111604:0128/143231.825:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[120912:111604:0128/143235.138:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[113964:114704:0128/143237.372:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-251427659776434F949F2529A79E13BE will be ignored
-[120912:116716:0128/143240.380:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[120912:111604:0128/143240.779:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[120912:111604:0128/143240.779:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[120912:111604:0128/143240.779:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[120912:111604:0128/143240.779:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[120912:116716:0128/143240.784:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[99236:113352:0128/143447.235:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[120912:111604:0128/144932.938:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[18044:18048:0128/145946.420:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18044:18048:0128/145946.429:ERROR:os_crypt_win.cc(100)] Failed to decrypt: 该项不适于在指定状态下使用。 (0x8009000B)
+[18044:18048:0128/145946.462:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18044:11368:0128/145949.380:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18044:11368:0128/145949.381:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18044:11368:0128/145949.382:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18044:12872:0128/145949.384:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18044:18064:0128/145949.985:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18044:18064:0128/145949.988:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17812:2620:0128/145950.381:ERROR:backend_impl.cc(989)] Critical error found -8
+[17812:2620:0128/145950.381:ERROR:entry_impl.cc(1029)] No file for b20200a8
+[17812:2620:0128/145950.381:WARNING:storage_block-inl.h(138)] Failed data load.
+[18044:5852:0128/145951.746:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5792:17264:0128/145952.392:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D439D35618A91425C20D09F3381ED23C will be ignored
+[18044:18048:0128/155209.029:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
