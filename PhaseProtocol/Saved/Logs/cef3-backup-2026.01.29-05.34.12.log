@@ -1,0 +1,16 @@
+[31684:11496:0129/133025.131:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[31684:8240:0129/133025.176:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[31684:11496:0129/133025.187:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[31684:11496:0129/133028.385:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[29468:3016:0129/133029.036:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[29468:3016:0129/133029.036:ERROR:backend_impl.cc(989)] Critical error found -8
+[29468:3016:0129/133030.015:WARNING:storage_block-inl.h(138)] Failed data load.
+[8128:29328:0129/133030.583:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-814A4386FDFA597E6F50BB3C258D1298 will be ignored
+[31684:13256:0129/133033.594:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[31684:11496:0129/133033.920:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[31684:11496:0129/133033.920:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[31684:11496:0129/133033.920:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[31684:11496:0129/133033.920:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[31684:13256:0129/133033.931:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[31032:6148:0129/133242.148:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[31684:11496:0129/133412.823:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
