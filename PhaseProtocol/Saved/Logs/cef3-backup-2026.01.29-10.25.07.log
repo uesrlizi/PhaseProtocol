@@ -1,0 +1,12 @@
+[31524:34000:0129/180841.782:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[31524:17196:0129/180841.825:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[31524:34000:0129/180841.835:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[31524:34000:0129/180844.979:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[28272:20004:0129/180846.878:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FC7F2958058F8DDDFC25DB9D83D52662 will be ignored
+[31524:37140:0129/180848.883:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[31524:34000:0129/180849.880:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[31524:34000:0129/180849.880:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[31524:34000:0129/180849.880:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[31524:34000:0129/180849.880:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[31524:37140:0129/180849.885:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[31524:34000:0129/181540.614:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

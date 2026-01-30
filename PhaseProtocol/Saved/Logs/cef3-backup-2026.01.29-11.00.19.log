@@ -1,0 +1,16 @@
+[37668:37508:0129/182530.771:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[37668:29800:0129/182530.828:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[37668:37508:0129/182530.837:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[37668:37508:0129/182534.061:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[9624:27184:0129/182534.853:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[9624:27184:0129/182534.853:ERROR:backend_impl.cc(989)] Critical error found -8
+[9624:27184:0129/182534.918:WARNING:storage_block-inl.h(138)] Failed data load.
+[30816:14964:0129/182535.302:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A91386793B95E6B2FB16A7A1973932E1 will be ignored
+[37668:36452:0129/182536.960:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[37668:37508:0129/182537.298:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[37668:37508:0129/182537.298:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[37668:37508:0129/182537.298:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[37668:37508:0129/182537.298:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[37668:36452:0129/182537.308:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[15200:8804:0129/182926.761:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-5D5542757835C78230CE31497C6902AF will be ignored
+[37668:37508:0129/190019.133:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
