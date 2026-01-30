@@ -1,0 +1,13 @@
+[12112:15848:0130/143544.943:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12112:15848:0130/143544.973:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12112:15848:0130/143547.097:WARNING:alloy_constrained_window_views_client.cc(77)] No likely focused browser
+[12112:13700:0130/143547.102:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12112:13700:0130/143547.103:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12112:13700:0130/143547.104:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12112:13700:0130/143547.105:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15344:14980:0130/143547.422:ERROR:backend_impl.cc(989)] Critical error found -8
+[15344:14980:0130/143547.422:ERROR:entry_impl.cc(1029)] No file for b202000c
+[15344:14980:0130/143547.422:WARNING:storage_block-inl.h(138)] Failed data load.
+[12112:13700:0130/143547.425:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12112:13700:0130/143547.428:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5112:3280:0130/143548.508:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4BFD741EE9BB5EF3A70B0CC13BB91484 will be ignored
