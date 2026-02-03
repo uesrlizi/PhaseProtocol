@@ -1,13 +1,14 @@
-[33964:30044:0130/112957.268:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[33964:53232:0130/112957.315:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[33964:30044:0130/112957.325:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[33964:30044:0130/113000.537:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[15016:2856:0130/113001.697:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A461C05F8918821A613D16503CEAEEB0 will be ignored
-[33964:28408:0130/113002.140:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[33964:30044:0130/113002.433:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[33964:30044:0130/113002.433:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[33964:30044:0130/113002.433:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[33964:30044:0130/113002.433:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[33964:28408:0130/113002.437:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[48072:37860:0130/113209.601:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[33964:30044:0130/115203.840:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[35660:28880:0203/195644.098:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[35660:28468:0203/195644.346:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[35660:28880:0203/195644.443:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[35660:28880:0203/195650.333:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[27056:18092:0203/195708.034:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[27056:18092:0203/195708.857:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[27056:18092:0203/195709.122:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[27056:18092:0203/195709.133:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[39796:8304:0203/195709.751:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2372C9058099669FB7236D9B5AA21CFC will be ignored
+[27056:18092:0203/195710.114:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[27056:18092:0203/195710.117:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[34348:20444:0203/195711.743:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-E30CDAD6C135F3CCA53037D02E11974F will be ignored
+[30308:4340:0203/195712.073:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[35660:28880:0203/195757.163:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
