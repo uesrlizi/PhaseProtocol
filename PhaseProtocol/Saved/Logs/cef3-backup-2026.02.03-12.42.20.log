@@ -1,0 +1,10 @@
+[21712:17764:0203/200806.088:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21712:40636:0203/200806.174:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21712:17764:0203/200806.210:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21712:17764:0203/200815.336:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[18788:10852:0203/200816.165:ERROR:backend_impl.cc(989)] Critical error found -8
+[18788:10852:0203/200816.165:ERROR:entry_impl.cc(1029)] No file for b202000c
+[18788:10852:0203/200816.165:WARNING:storage_block-inl.h(138)] Failed data load.
+[30964:28724:0203/200822.616:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8FA7BBD3A45C58F1928FED995B6BF24F will be ignored
+[21712:17764:0203/201335.639:ERROR:device_event_log_impl.cc(196)] [20:13:35.635] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+[21712:17764:0203/204220.039:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

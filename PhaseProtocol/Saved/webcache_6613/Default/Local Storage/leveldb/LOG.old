@@ -1,3 +1,5 @@
-2026/02/01-03:19:10.431 2884 Reusing MANIFEST C:\Users\31715\Documents\GitHub\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/02/01-03:19:10.446 2884 Recovering log #11
-2026/02/01-03:19:10.449 2884 Reusing old log C:\Users\31715\Documents\GitHub\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\Local Storage\leveldb/000011.log 
+2026/02/05-21:11:39.277 9b90 Reusing MANIFEST C:\Users\31715\Documents\GitHub\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/05-21:11:39.294 9b90 Recovering log #11
+2026/02/05-21:11:39.295 9b90 Level-0 table #16: started
+2026/02/05-21:11:39.364 9b90 Level-0 table #16: 67340 bytes OK
+2026/02/05-21:11:39.446 9b90 Delete type=0 #11
