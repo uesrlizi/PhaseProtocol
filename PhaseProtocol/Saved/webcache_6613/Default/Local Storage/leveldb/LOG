@@ -1,3 +1,17 @@
-2026/02/07-15:55:33.752 2ae8 Reusing MANIFEST C:\Users\31715\Documents\GitHub\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/02/07-15:55:33.759 2ae8 Recovering log #23
-2026/02/07-15:55:33.762 2ae8 Reusing old log C:\Users\31715\Documents\GitHub\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\Local Storage\leveldb/000023.log 
+2026/02/07-20:58:48.646 c0fc Reusing MANIFEST C:\Users\31715\Documents\GitHub\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/07-20:58:48.652 c0fc Recovering log #23
+2026/02/07-20:58:48.652 c0fc Level-0 table #25: started
+2026/02/07-20:58:48.658 c0fc Level-0 table #25: 67688 bytes OK
+2026/02/07-20:58:48.659 c0fc Recovering log #25
+2026/02/07-20:58:48.662 c0fc Reusing old log C:\Users\31715\Documents\GitHub\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\Local Storage\leveldb/000025.log 
+2026/02/07-20:58:48.664 c0fc Delete type=0 #23
+2026/02/07-20:58:48.664 c0fc Delete type=2 #26
+2026/02/07-20:58:48.665 8c84 Compacting 4@0 + 1@1 files
+2026/02/07-20:58:48.677 8c84 Generated table #26@0: 7 keys, 12040 bytes
+2026/02/07-20:58:48.677 8c84 Compacted 4@0 + 1@1 files => 12040 bytes
+2026/02/07-20:58:48.678 8c84 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/07-20:58:48.679 8c84 Delete type=2 #14
+2026/02/07-20:58:48.679 8c84 Delete type=2 #16
+2026/02/07-20:58:48.679 8c84 Delete type=2 #19
+2026/02/07-20:58:48.679 8c84 Delete type=2 #22
+2026/02/07-20:58:48.679 8c84 Delete type=2 #25
