@@ -1,6 +1,10 @@
 {
   "manifest_version": 2,
   "name": "Optimization Hints",
+<<<<<<<< Updated upstream:PhaseProtocol/Saved/webcache_6613/OptimizationHints/618/manifest.json
   "version": "618",
+========
+  "version": "623",
+>>>>>>>> Stashed changes:PhaseProtocol/Saved/webcache_6613/OptimizationHints/623/manifest.json
   "ruleset_format": "1.0.0"
 }

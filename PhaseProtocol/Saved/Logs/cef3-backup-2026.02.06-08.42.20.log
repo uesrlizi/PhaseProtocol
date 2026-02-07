@@ -1,0 +1,16 @@
+[13148:12644:0206/162652.699:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13148:12644:0206/162652.744:ERROR:os_crypt_win.cc(100)] Failed to decrypt: 该项不适于在指定状态下使用。 (0x8009000B)
+[13148:12644:0206/162652.766:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13148:12932:0206/162655.158:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13148:12932:0206/162655.159:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13148:12932:0206/162655.160:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13148:12932:0206/162655.161:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13148:12932:0206/162655.520:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13148:12932:0206/162655.524:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13212:13720:0206/162655.998:ERROR:backend_impl.cc(989)] Critical error found -8
+[13212:13720:0206/162656.277:WARNING:storage_block-inl.h(138)] Failed data load.
+[13212:13720:0206/162656.277:WARNING:storage_block-inl.h(138)] Failed data load.
+[13212:13720:0206/162656.278:ERROR:entry_impl.cc(955)] Failed to save user data
+[14068:14252:0206/162656.668:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B66CD7469CAD2C94835A37FBFD90E81A will be ignored
+[13148:12924:0206/162700.029:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13148:12644:0206/164220.307:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

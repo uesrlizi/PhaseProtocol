@@ -1,0 +1,18 @@
+[8276:10200:0207/133346.901:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8276:10200:0207/133346.933:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8276:6348:0207/133350.564:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8276:6348:0207/133350.564:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8276:6348:0207/133350.565:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8276:6348:0207/133350.566:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8276:6348:0207/133350.848:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8276:6348:0207/133350.849:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8688:4524:0207/133351.550:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-77D37346CB7FF3ECA672DD509FE95AC0 will be ignored
+[8276:1848:0207/133353.563:WARNING:leveldb_database.cc(141)] Unable to open E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: E:\1\PhaseProtocol\PhaseProtocol\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8276:8400:0207/133411.172:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[8276:10200:0207/133411.849:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[8276:10200:0207/133411.849:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[8276:10200:0207/133411.849:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[8276:10200:0207/133411.849:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[8276:8400:0207/133411.852:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[4304:8884:0207/133619.789:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[8276:10200:0207/140236.387:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
