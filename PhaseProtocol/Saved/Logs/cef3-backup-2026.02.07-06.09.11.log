@@ -1,0 +1,20 @@
+[56008:21204:0207/140425.071:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[56008:59312:0207/140425.147:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[56008:21204:0207/140425.161:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[56008:21204:0207/140429.109:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[39044:39556:0207/140431.830:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2FBE5E2F0B97D46763DBEBD63071CA34 will be ignored
+[56008:17448:0207/140434.505:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[56008:21204:0207/140437.166:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[56008:21204:0207/140437.167:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[56008:21204:0207/140437.167:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[56008:21204:0207/140437.167:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[56008:17448:0207/140437.172:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[56008:21204:0207/140522.373:ERROR:device_event_log_impl.cc(196)] [14:05:22.302] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+[56008:21204:0207/140527.377:ERROR:device_event_log_impl.cc(196)] [14:05:27.093] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+[56008:17448:0207/140654.564:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[56008:21204:0207/140655.557:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[56008:21204:0207/140655.557:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[56008:21204:0207/140655.557:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[56008:21204:0207/140655.557:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[4696:52632:0207/140911.755:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[4696:52632:0207/140911.755:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
