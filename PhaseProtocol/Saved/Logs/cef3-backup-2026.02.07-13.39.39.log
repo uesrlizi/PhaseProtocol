@@ -1,0 +1,17 @@
+[30680:58928:0207/213424.608:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[30680:43524:0207/213424.663:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[30680:58928:0207/213424.671:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[30680:58928:0207/213433.571:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[48832:50004:0207/213435.375:ERROR:backend_impl.cc(989)] Critical error found -8
+[48832:50004:0207/213435.376:ERROR:entry_impl.cc(1029)] No file for b202000c
+[48832:50004:0207/213435.377:WARNING:storage_block-inl.h(138)] Failed data load.
+[13656:58160:0207/213436.368:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6DA03D6B3EF7D3A0364B8E30AB1F2301 will be ignored
+[30680:31772:0207/213446.706:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[30680:58928:0207/213447.033:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[30680:58928:0207/213447.035:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[30680:58928:0207/213447.035:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[30680:58928:0207/213447.035:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[30680:31772:0207/213447.045:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[51524:23212:0207/213658.816:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[51524:23212:0207/213658.816:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[30680:58928:0207/213939.673:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
