@@ -1,15 +1,11 @@
-[48932:53484:0207/230908.056:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[48932:42192:0207/230908.123:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[48932:53484:0207/230908.131:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[48932:53484:0207/230911.563:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[17076:15560:0207/230912.400:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
-[17076:15560:0207/230912.400:ERROR:backend_impl.cc(989)] Critical error found -8
-[17076:15560:0207/230912.480:WARNING:storage_block-inl.h(138)] Failed data load.
-[37836:56452:0207/230912.860:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B90F11D78009E561D2CC98DEC5F52C7A will be ignored
-[48932:52956:0207/230914.850:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[48932:53484:0207/230915.176:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[48932:53484:0207/230915.176:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[48932:53484:0207/230915.176:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[48932:53484:0207/230915.176:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[48932:52956:0207/230915.185:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[48932:53484:0207/231728.708:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[13892:13896:0208/122208.242:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13892:13896:0208/122208.283:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11080:5664:0208/122214.454:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E951C850FE5D94C6DBB6D3B67B9FE72A will be ignored
+[13892:11348:0208/122216.132:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[13892:13896:0208/122216.803:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[13892:13896:0208/122216.803:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[13892:13896:0208/122216.803:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[13892:13896:0208/122216.804:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[13892:11348:0208/122216.806:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[5552:13780:0208/122426.567:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[13892:13896:0208/124218.860:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
